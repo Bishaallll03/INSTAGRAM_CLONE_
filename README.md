@@ -22,7 +22,7 @@ This project is a web application developed to emulate the frontend appearance o
 ## Demo
 
 To view the live demo:
-1. [Click here]([https://bishaallll03.github.io/INSTAGRAM_CLONE_/](https://merry-vacherin-6950d1.netlify.app/))
+1. [Click here](https://merry-vacherin-6950d1.netlify.app/)
 
 ## How to Use
 
