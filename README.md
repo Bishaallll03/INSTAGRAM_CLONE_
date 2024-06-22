@@ -19,10 +19,15 @@ This project is a web application developed to emulate the frontend appearance o
 - HTML
 - CSS
 
+## Demo
+
+To view the live demo:
+1. [Click here](https://bishaallll03.github.io/INSTAGRAM_CLONE_/)
+2. Click on "Details"
+3. Click on "Visit This Site"
+
 ## How to Use
 
 Simply clone this repository and open the `index.html` file in your web browser to view the Instagram Clone application.
-
-## Screenshots
 
 
